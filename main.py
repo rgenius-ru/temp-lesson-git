@@ -1,5 +1,4 @@
-def func1(a, b):
-    return a + b
+import core
 
 def main():
     print('program started')
