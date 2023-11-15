@@ -1,7 +1,7 @@
 import core
 
 def main():
-    print('Program started.')
+    print('Program started!')
 
 
 if __name__ == "__main__":
