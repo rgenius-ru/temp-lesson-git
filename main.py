@@ -1,4 +1,4 @@
-import core
+from core import func1
 
 def main():
     print('Program started!')
