@@ -1,5 +1,5 @@
-def func1:
-    pass
+def func1(a, b):
+    return a + b
 
 def main():
     print('program started')
